@@ -1971,3 +1971,11 @@ tossing
 .icon-other-distance{
 	color: #ffeb3b;
 }
+
+.add_edit_photo_page .button-fill{
+	background-color: #ffeb3b;
+}
+
+.add_edit_photo_page .button-fill .f7-icons{
+	color: white;
+}
